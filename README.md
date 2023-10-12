@@ -14,6 +14,8 @@ https://www.ebay.ie/itm/394589732748?hash=item5bdf617f8c:g:wHYAAOSwz9NkSPpn&amda
 
 [NMEA 2000](https://en.wikipedia.org/wiki/NMEA_2000)
 
+[CANBus](https://en.wikipedia.org/wiki/CAN_bus)
+
 [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System)
 
 [GLONASS](https://en.wikipedia.org/wiki/GLONASS)
