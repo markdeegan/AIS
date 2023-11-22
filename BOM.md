@@ -4,7 +4,7 @@ Raspberry pi =  € 178.97
 
 2 adrundios =  €24,00 each
 
-2 433 mage hz transmitter receiver pairs =  https://gleanntronics.ie/en/products/fs100a-433-mhz-radio-transmitter-receiver-module-arduino-74.html?gclid=EAIaIQobChMI96yA56uxggMVBMftCh3AAQqKEAQYAyABEgIe_PD_BwE 3,39 € / pc 
+2 433 mage hz transmitter receiver pairs = https://ie.farnell.com/seeed-studio/114992732/rf-transceiver-link-kit-315-433mhz/dp/4200190?gad_source=1&gclid=Cj0KCQiA6vaqBhCbARIsACF9M6lRKjsb8WauswBnqWP_vaZ1p1itaYLEYYsnzsMmu0zybvvLL08VtjsaArleEALw_wcB&CMP=KNC-GIE-GEN-SHOPPING-PerformanceMax-Low-Margin-Test1573&gross_price=true € 23/ pc 
 
 Ais receiver =  https://www.amazon.co.uk/ShipXplorer-AIS-Dongle-Blue/dp/B09Y61CM12/ref=asc_df_B09Y61CM12/?tag=googshopuk-21&linkCode=df0&hvadid=641744955034&hvpos=&hvnetw=g&hvrand=16193503456615827251&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007850&hvtargid=pla-1720206209418&psc=1 € 46 
 
@@ -20,4 +20,4 @@ Temp sensor = https://www.amazon.co.uk/Waterproof-Digital-Thermal-Temperature-Se
 
 Gps receiver with NMEA output = https://www.amazon.co.uk/Navigation-Positioning-Microcontroller-Compatible-Sensitivity/dp/B08XGN4YLY/ref=asc_df_B08XGN4YLY/?tag=googshopuk-21&linkCode=df0&hvadid=499389892721&hvpos=&hvnetw=g&hvrand=10326226391113779964&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007850&hvtargid=pla-1225973310454&psc=1&mcid=b92e0e4455b53274aaf0de5d6c8a8080  €14.96
 
-rs 232 to ttl dougl  =
+rs 232 to ttl dougl  = https://www.dfrobot.com/product-196.html
